@@ -15,5 +15,4 @@ python infografia.py
 cd documento && xelatex explicacion.tex
 ```
 
-Las salidas renderizadas no se versionan: el enunciado pide no publicar la infografía en
-repositorios públicos sin consulta previa.
+Las salidas renderizadas (`salidas/` y `documento/explicacion.pdf`) se versionan junto al código.

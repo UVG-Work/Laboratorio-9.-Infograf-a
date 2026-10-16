@@ -1,10 +1,6 @@
-# Salidas renderizadas: la infografía no se publica en repositorios públicos (ver enunciado)
-salidas/
-
 # Artefactos de LaTeX
 documento/*.aux
 documento/*.log
 documento/*.out
 documento/*.toc
-documento/*.pdf
 __pycache__/
